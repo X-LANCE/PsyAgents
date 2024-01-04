@@ -1,10 +1,10 @@
 # Summary
 
-* [Introduction](README.md)
-* [Easy](easy/README.md)
-    * [1.Two Sum](easy/1.Two Sum.md)
-    * [7.Reverse Integer](easy/7.Reverse Integer.md)
-* [Medium](medium/README.md)
-    * [2.Add Two Numbers](medium/2.Add Two Numbers.md)
-    * [3.Longest Substring Without Repeating Characters](medium/3.Longest Substring Without Repeating Characters.md)
+* [Overview](README.md)
+* [User Manual](user_manual/README.md)
+    * [Tutorial](user_manual/tutorial.md)
+    * [Others](user_manual/others.md)
+* [Use Cases](use_cases/README.md)
+    * [Therapist](use_cases/therapist.md)
+    * [Patient](use_cases/patient.md)
 
